@@ -1,4 +1,4 @@
-Project based on CodeAcademy C++ - Loops Challenge 
+CodeAcademy C++ - Loops Challenge Project
 
 Prerequisite:
 1. Download C++ on your device.
